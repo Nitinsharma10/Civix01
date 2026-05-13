@@ -1,0 +1,11 @@
+/node_modules
+.prettierrc
+
+# Local MCP config may contain DB URLs / secrets
+.vscode/mcp.json
+
+# Secrets (never commit)
+.env
+.env.local
+**/.env
+!**/.env.example

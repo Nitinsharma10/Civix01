@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"mongo": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"mongodb-mcp-server@1.8.0",
+				"--connectionString",
+				"YOUR_MONGODB_URI_HERE",
+				"--telemetry",
+				"disabled"
+			]
+		}
+	},
+	"inputs": []
+}
