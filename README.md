@@ -4,7 +4,7 @@ A full-stack civic platform where residents report local issues and admins triag
 
 > This README reflects the latest **Admin Issue List UI update** — image thumbnails, a click-to-preview modal, stronger hover clarity, and high-severity highlighting.
 
----
+-----
 
 ## Table of Contents
 
